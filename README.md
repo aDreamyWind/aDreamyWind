@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 
 <h1 align="center">
-  <a href="https://anzhiy.cn/">
+  <a href="https://www.hstudent.xyz/">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=虚幻的人生;美丽的泡沫">
   </a>
 </h1>
