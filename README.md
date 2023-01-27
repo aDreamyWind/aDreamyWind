@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://www.hstudent.xyz/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=虚幻的人生;美丽的泡沫">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=100&lines=虚幻的人生;美丽的泡沫">
   </a>
 </h1>
 
